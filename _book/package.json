@@ -1,0 +1,27 @@
+{
+  "name": "moye-in-action",
+  "version": "1.0.0",
+  "description": "moye-in-action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jinzhubaofu/moye-in-action.git"
+  },
+  "keywords": [
+    "moye",
+    "in",
+    "action"
+  ],
+  "author": "leonlu@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinzhubaofu/moye-in-action/issues"
+  },
+  "homepage": "https://github.com/jinzhubaofu/moye-in-action",
+  "dependencies": {
+    "gitbook-plugin-anchors": "^0.3.0"
+  }
+}
